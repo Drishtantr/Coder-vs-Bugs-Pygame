@@ -10,6 +10,7 @@ The game is simple, a coder tries avoiding bugs and errors, and when he/she meet
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Screenshots](#Screenshots)
 
 ## Installation
 
@@ -31,3 +32,9 @@ So balance the mouse click and avoid the bugs in order to survive.
 ## Contributing
 
 Drishtant Regmi, Reduct Nepal
+
+## Screenshots
+
+![Screenshot 1](https://github.com/Drishtantr/Coder-vs-Bugs-Pygame/screenshots/1.png)
+![Screenshot 3](https://github.com/Drishtantr/Coder-vs-Bugs-Pygame/screenshots/2.png)
+![Screenshot 2](https://github.com/Drishtantr/Coder-vs-Bugs-Pygame/screenshots/3.png)
