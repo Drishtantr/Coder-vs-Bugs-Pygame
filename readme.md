@@ -35,6 +35,6 @@ Drishtant Regmi, Reduct Nepal
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Drishtantr/Coder-vs-Bugs-Pygame/screenshots/1.png)
-![Screenshot 3](https://github.com/Drishtantr/Coder-vs-Bugs-Pygame/screenshots/2.png)
-![Screenshot 2](https://github.com/Drishtantr/Coder-vs-Bugs-Pygame/screenshots/3.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
