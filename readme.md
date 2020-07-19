@@ -19,7 +19,7 @@ The game is simple, a coder tries avoiding bugs and errors, and when he/she meet
 	Clone this repository on your machine, open a command terminal, write "python coder.py" and press Enter.
 	You shouldhave python installed and if not, install python first.
 *Live Version
-	The live version of the game will be available at https://repl.it/@DrishtantRegmi as soon as possible
+	The live version of the game is available at https://repl.it/@DrishtantRegmi/coderpygame 
 ```
 
 ## Usage
